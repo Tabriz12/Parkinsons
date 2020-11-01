@@ -1,4 +1,4 @@
 # Parkinsons
-Parkinsons dataset analysis
+Parkinsons Dataset analysis
 
-PREDICTION PARKINSON’S DISEASE THROUGH VOICE MEAUSERS
+Prediction of Parkinson's Disease Through Voice Measures
